@@ -1,12 +1,4 @@
-<!-- 
-  ╔══════════════════════════════════════════════════════╗
-  ║  OPTIONAL: Place a banner image here                 ║
-  ║  Recommended size: 1500x500px                        ║
-  ║  Tools to create one: Canva, Figma, or Notion cover  ║
-  ║  Replace the comment below with:                     ║
-  ║  ![banner](your-image-url)                           ║
-  ╚══════════════════════════════════════════════════════╝
--->
+![banner](./assets/banner.png)
 
 <div align="center">
 
@@ -38,12 +30,12 @@ When I'm not coding, I play guitar and sing. Balance is real.
 
 | Language / Tool | Level |
 |---|---|
-| C# | ⭐⭐⭐⭐ ~4 years |
-| PHP | ⭐⭐⭐ ~3 years |
-| SQL | ⭐⭐⭐ ~3 years |
-| HTML / CSS / JS | ⭐⭐⭐ ~2 years |
+| C# | ~4 years |
+| PHP | ~3 years |
+| SQL | ~3 years |
+| HTML / CSS / JS | ~4 years |
 | Django / DRF | 🔨 Currently using at work |
-| Python | ⭐ Just getting started |
+| Python | Just getting started |
 
 ---
 
@@ -52,14 +44,6 @@ When I'm not coding, I play guitar and sing. Balance is real.
 > 💡 *Check the pinned repos below for the full picture.*
 
 **[HairLab](#)** — Mobile booking app for hair salons. React Native + Node.js/TypeScript, built with Supabase and OTP auth. Full-stack from scratch.
-
-**[Quote Generator](#)** — Web app that generates PDF quotes for a renovation business. Built with PHP (Slim Framework), TailwindCSS, and Dompdf.
-
-**[Maze Generator](#)** — C# console app that generates mazes using the Builder design pattern. School project, but I went all in.
-
-**[Orchestration API](#)** — Backend API (Django REST Framework) currently being built at my internship. Splitting a legacy monolith into a clean, multi-tenant REST API. Real production codebase.
-
-> Replace `#` with actual repo links once they're public.
 
 ---
 
@@ -83,9 +67,9 @@ When I'm not coding, I play guitar and sing. Balance is real.
 
 ### Currently
 
-- 🏗️ Building a REST API from a legacy Django monolith (internship)
-- 📚 Getting more comfortable with Python and the Django ecosystem
-- 🎸 Playing guitar when the bugs get too annoying
+- Building a REST API from a legacy Django monolith (internship)
+- Getting more comfortable with Python and the Django ecosystem
+- Playing guitar when the bugs get too annoying
 
 ---
 
@@ -94,19 +78,3 @@ When I'm not coding, I play guitar and sing. Balance is real.
 *Open to feedback. Always learning.*
 
 </div>
-
-
-<!--
-**Mrck-Kvs/Mrck-Kvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
