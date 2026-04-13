@@ -34,17 +34,20 @@ When I'm not coding, I play guitar and sing. Balance is real.
 | PHP | ~3 years |
 | SQL | ~3 years |
 | HTML / CSS / JS | ~4 years |
-| Django / DRF | 🔨 Currently using at work |
+| Django / DRF | Currently using at work |
 | Python | Just getting started |
 
 ---
 
 ### Featured projects
 
-> 💡 *Check the pinned repos below for the full picture.*
+> *Check the pinned repos below for the full picture.*
 
+**[school-labs](https://github.com/Mrck-Kvs/school-labs)** — C# and WPF
+exercises from my first-year CS program. Learning in public.
+<!--
 **[HairLab](#)** — Mobile booking app for hair salons. React Native + Node.js/TypeScript, built with Supabase and OTP auth. Full-stack from scratch.
-
+-->
 ---
 
 ### GitHub stats
