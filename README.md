@@ -53,8 +53,8 @@ exercises from my first-year CS program. Learning in public.
 ### GitHub stats
 
 <div align="center">
-  <img src="github-readme-stats-mrck-kvs-projects.vercel.app/api?username=Mrck-Kvs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img src="github-readme-stats-mrck-kvs-projects.vercel.app/api/top-langs/?username=Mrck-Kvs&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-mrck-kvs-projects.vercel.app/api?username=Mrck-Kvs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats-mrck-kvs-projects.vercel.app/api/top-langs/?username=Mrck-Kvs&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
