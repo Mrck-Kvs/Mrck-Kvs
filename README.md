@@ -52,18 +52,9 @@ exercises from my first-year CS program. Learning in public.
 
 ### GitHub stats
 
-<!--
-  These cards pull live data from your GitHub account.
-  They'll show up automatically once the README is live on your profile.
-  Dark theme is set to match a clean, minimal look.
--->
-
 <div align="center">
-
-![GitHub stats](https://github-readme-stats-mrck-kvs-projects.vercel.app/api?username=Mrck-Kvs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&v=2)
-
-![Top Languages](https://github-readme-stats-mrck-kvs-projects.vercel.app/api/top-langs/?username=Mrck-Kvs&layout=compact&theme=github_dark&hide_border=true)
-
+  <img src="https://github-readme-stats-mrck-kvs-projects.vercel.app/api?username=Mrck-Kvs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&v=2" />
+  <img src="https://github-readme-stats-mrck-kvs-projects.vercel.app/api/top-langs/?username=Mrck-Kvs&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
