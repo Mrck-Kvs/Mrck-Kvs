@@ -60,7 +60,7 @@ exercises from my first-year CS program. Learning in public.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-mrck-kvs-projects.vercel.app/api?username=Mrck-Kvs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats-mrck-kvs-projects.vercel.app/api?username=Mrck-Kvs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&v=2)
 
 ![Top Languages](https://github-readme-stats-mrck-kvs-projects.vercel.app/api/top-langs/?username=Mrck-Kvs&layout=compact&theme=github_dark&hide_border=true)
 
