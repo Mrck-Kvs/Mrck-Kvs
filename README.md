@@ -1,4 +1,7 @@
-<img src="./assets/banner.svg" alt="Kevin Marck — CS Student, Backend" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner.svg" alt="Kevin Marck — CS Student, Backend" width="100%" />
+</picture>
 
 CS student in Switzerland, focused on backend development.
 
