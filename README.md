@@ -1,6 +1,8 @@
-<img src="./assets/banner.svg" alt="Kevin Marck — Backend Developer" width="100%" />
+<img src="./assets/banner.svg" alt="Kevin Marck — CS Student, Backend" width="100%" />
 
-Backend developer based in Switzerland. REST APIs, business web apps and the data layer behind them.
+CS student in Switzerland, focused on backend development.
+
+**Into:** software architecture · OOP · design patterns · logical problem solving
 
 ### Work
 
